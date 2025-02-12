@@ -6,7 +6,7 @@ env:
   subProduct: JuiceShop-App
   environment: Production
   token: 0978c9fc-bbdc-4760-b37b-7614040aff0b
-  buildTool: GITHUB_ACTIONS
+  buildTool: JENKINS
   buildNumber: ${{github.run_number}}
   end: 30
   
