@@ -2,7 +2,9 @@
  * Copyright (c) 2014-2024 Bjoern Kimminich & the OWASP Juice Shop contributors.
  * SPDX-License-Identifier: MIT
  */
-
+/* 
+Adding a Comment and a broken thing
+*/
 import { type Request, type Response, type NextFunction } from 'express'
 import { ProductModel } from '../models/product'
 import { BasketModel } from '../models/basket'
